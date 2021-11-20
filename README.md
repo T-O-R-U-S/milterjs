@@ -10,7 +10,7 @@ sendmail milter protocol javscript client library
 
 help you write a sendmail/postfix milter in javascript
 
-## EXEMPLE
+## EXAMPLE
 ```javascript
 var milterjs = require('milterjs');
 
